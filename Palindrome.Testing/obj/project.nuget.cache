@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zO1hQ56rjorqKi0rPql1QuEbp2QupYB2iLs8ljcOfyiO0eMkda7kCpjkjlBMSp539p3iTfdXOL68/rA+VYKX1Q==",
+  "dgSpecHash": "wk8tPm5cuGn4SHsvHqpUAmJZo0wl61VwqT+5NT8uonAipbz/ctlSRvKEewE7icV4UGcOm3M8uTUGJ5FyB7jD8g==",
   "success": true,
   "projectFilePath": "/home/jfantauz/revature_dotnet/coding_challenges/csharp-challenge-jfantauzzi/Palindrome.Testing/Palindrome.Testing.csproj",
   "expectedPackageFiles": [

@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cqsTpJVYhq2oVtn2CrRepj5F9FPHB3blGsz93UwQzG+Y0C2wZfzzo3xsTxT0DVgOVIgPe20op2wDuFu817mMaw==",
+  "dgSpecHash": "D68EA9nc3FMMgE4yQdPhIhsvyKA3lA+nNBlxW2OZZXDeJIG+VpVSZ5ayafaJh67g2PIv351K6FM9pW7KWy764g==",
   "success": true,
-  "projectFilePath": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Domain/Palindrome.Domain.csproj",
+  "projectFilePath": "/home/jfantauz/revature_dotnet/coding_challenges/csharp-challenge-jfantauzzi/Palindrome.Domain/Palindrome.Domain.csproj",
   "expectedPackageFiles": [
-    "/home/fred/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/home/fred/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+    "/home/jfantauz/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/jfantauz/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

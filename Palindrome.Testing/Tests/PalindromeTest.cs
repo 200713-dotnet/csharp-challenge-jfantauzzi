@@ -1,3 +1,4 @@
+using Palindrome.Domain.Models;
 using Xunit;
 
 namespace Palindrome.Testing.Tests
@@ -9,7 +10,7 @@ namespace Palindrome.Testing.Tests
     public void Test_Finder(string input)
     {
   
-      var sut = new Palindrome.Domain.Models.Palindrome();
+      var sut = new Palindrome();
       var actual = sut.IsPalindrome(input);
 
       Assert.True(actual);
