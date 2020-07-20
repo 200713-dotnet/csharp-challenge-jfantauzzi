@@ -1,0 +1,4 @@
+/home/jfantauz/revature_dotnet/coding_challenges/csharp-challenge-jfantauzzi/Palindrome.Testing/obj/Debug/netcoreapp3.1/Palindrome.Testing.csprojAssemblyReference.cache
+/home/jfantauz/revature_dotnet/coding_challenges/csharp-challenge-jfantauzzi/Palindrome.Testing/obj/Debug/netcoreapp3.1/Palindrome.Testing.AssemblyInfoInputs.cache
+/home/jfantauz/revature_dotnet/coding_challenges/csharp-challenge-jfantauzzi/Palindrome.Testing/obj/Debug/netcoreapp3.1/Palindrome.Testing.AssemblyInfo.cs
+/home/jfantauz/revature_dotnet/coding_challenges/csharp-challenge-jfantauzzi/Palindrome.Testing/obj/Debug/netcoreapp3.1/Palindrome.Testing.csproj.CoreCompileInputs.cache

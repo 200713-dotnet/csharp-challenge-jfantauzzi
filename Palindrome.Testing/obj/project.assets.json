@@ -3505,19 +3505,19 @@
     ]
   },
   "packageFolders": {
-    "/home/fred/.nuget/packages/": {}
+    "/home/jfantauz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Testing/Palindrome.Testing.csproj",
+      "projectUniqueName": "/home/jfantauz/revature_dotnet/coding_challenges/csharp-challenge-jfantauzzi/Palindrome.Testing/Palindrome.Testing.csproj",
       "projectName": "Palindrome.Testing",
-      "projectPath": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Testing/Palindrome.Testing.csproj",
-      "packagesPath": "/home/fred/.nuget/packages/",
-      "outputPath": "/home/fred/2007_13_dotnet/coding_challenges/Palindrome/Palindrome.Testing/obj/",
+      "projectPath": "/home/jfantauz/revature_dotnet/coding_challenges/csharp-challenge-jfantauzzi/Palindrome.Testing/Palindrome.Testing.csproj",
+      "packagesPath": "/home/jfantauz/.nuget/packages/",
+      "outputPath": "/home/jfantauz/revature_dotnet/coding_challenges/csharp-challenge-jfantauzzi/Palindrome.Testing/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/fred/.nuget/NuGet/NuGet.Config"
+        "/home/jfantauz/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -3571,7 +3571,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
       }
     }
   }
