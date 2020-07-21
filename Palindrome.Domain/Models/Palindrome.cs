@@ -1,3 +1,5 @@
+using System;
+
 namespace Palindrome.Domain.Models
 {
   public class Palindrome
@@ -7,9 +9,9 @@ namespace Palindrome.Domain.Models
       char[] charInput = input.ToCharArray();
 
       Array.Reverse(charInput);
-      string reverse = new string(p);
+      string reverse = new string(charInput);
 
-      bool bo = string1.Equals(rev, StringComparison.OrdinalIgnoreCase);
+      bool bo = input.Equals(reverse, StringComparison.OrdinalIgnoreCase);
 
       return bo;
 
